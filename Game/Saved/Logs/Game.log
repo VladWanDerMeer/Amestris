@@ -1661,3 +1661,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.23-13.08.22:899][396]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 655.398621
 [2025.09.23-13.08.23:901][399]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.23-13.08.23:901][400]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 656.067749, Update Interval: 305.577576
+[2025.09.23-13.13.37:040][455]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 969.537415
+[2025.09.23-13.13.38:040][458]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.23-13.13.38:040][459]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 970.204102, Update Interval: 326.950287
+[2025.09.23-13.15.31:794][913]Cmd: POLY SELECT ADJACENT WALLS
