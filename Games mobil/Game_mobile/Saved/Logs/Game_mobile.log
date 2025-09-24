@@ -1244,3 +1244,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.24-15.27.19:522][250]Cmd: POLY SELECT MEMORY UNION
 [2025.09.24-15.27.29:926][471]LogSlate: Window 'Плагины' being destroyed
 [2025.09.24-15.27.29:930][471]LogSlate: Window 'Плагины' being destroyed
+[2025.09.24-15.28.42:408][703]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.09.24-15.28.42:623][704]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.09.24-15.29.07:022][100]LogDerivedDataCache: C:/Users/WanDerMeer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
